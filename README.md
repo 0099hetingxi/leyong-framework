@@ -1,4 +1,4 @@
-# 仂庸（LingYong）· 完整框架 v2 —— 理论、公式与推导全编
+# 仂庸（Leyong）· 完整框架 v2 —— 理论、公式与推导全编
 
 **作者**：He, Yi（何一）｜独立研究者 / Independent Researcher
 **许可**：CC BY-SA 4.0 ｜ **日期**：2026-09-06
@@ -21,12 +21,12 @@
 
 | 文件 | 说明 |
 |---|---|
-| `lingyong-framework-v2.md` | 完整框架全编（Markdown 源） |
-| `lingyong-framework-v2.pdf` | 排版稿（A4，54 页） |
+| `leyong-framework-v2.md` | 完整框架全编（Markdown 源） |
+| `leyong-framework-v2.pdf` | 排版稿（A4） |
 
 ## 引用
 
-**He, Y.** (2026). *仂庸·完整框架 v2：理论、公式与推导全编*. Zenodo. https://doi.org/10.5281/zenodo.22421319
+**He, Y.** (2026). *仂庸·完整框架 v2：理论、公式与推导全编*. Zenodo. https://doi.org/10.5281/zenodo.22421318 (concept DOI)
 
 - 总图 v1（结构层）：DOI: 10.5281/zenodo.22421319
 - 《中和道化论》合集：DOI: 10.5281/zenodo.22148720
